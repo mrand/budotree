@@ -1,0 +1,69 @@
+# Judo Documentation Project: Judo Lineage Tree Sub-project
+---
+
+person:
+  id: JDP-138
+  name: Ernie Cates
+  aka:
+    - name: Ernie Cates
+  nationality:
+    - USA
+  birth:
+    date: "1933-05-11"
+    location: Floral Park, NY
+    country_code: USA
+  death:
+    date: "2026-01-26"
+    location: Bakersville, NC
+    country_code: USA
+  description:
+    en: >-
+      1956 Okinawa Judo Champion, the All Marine Corps Judo Champion from 1959 to 1963 (seven consecutive years in his weight class), 
+      the overall All Marine Corps Judo Champion for five consecutive years when he defeated all weight groups, 
+      a two-time Inter-Service Judo Grand Champion and a five-time Eastern U.S. Champion.
+      10th Dan and co-founder of Neko-Ryu-Goshin-Jitsu.  
+      Only American to receive Japanese Ambassador’s Cup in Judo (1962). 
+      Fourth in his weight group at the first U.S. Olympic Trials for Judo (1964 World’s Fair New York).
+  photo:
+    url: https://legendsofcarolinamartialarts.com/wp-content/uploads/2020/01/erniecates.jpg
+    source:
+      uri: https://legendsofcarolinamartialarts.com/class-of-2020/ernie-cates-nc/
+      cite: Legends of Carolina Martial Arts
+  teachers:
+    - id: JDP-136
+      style_id: JDP-S-1
+      place: 
+      period:
+        start: 
+        end: 
+      quality:    # not sure.  Multiple source cite this, so probably very high confidence
+      sources:
+        - uri: # Not sure best source on this
+          cite: 
+    - id: JDP-137
+      style_id: JDP-S-1
+      place: 
+      period:
+        start: 
+        end: 
+      quality:    # not sure.  Multiple source cite this, so probably very high confidence
+      sources:
+        - uri: # Not sure of the best source on this
+          cite: 
+  rank:
+    - style_id: JDP-S-1
+      org: USJA
+      teacher:
+      rank: 8 dan
+      date: 1999
+  sources:
+    - uri: https://www.kenfuderyu.co.za/Neko%20Ryu%20Goshinjitsu.htm
+    - uri: https://www.blackbeltmag.com/post/ernie-cates-fighting-for-longevity
+    - uri: https://piscataquadojo.weebly.com/about-neko-ryu-goshin-jitsu.html
+    - uri: https://digital.tcl.sc.edu/digital/collection/MarineCorps/id/3848
+    - url: https://www.usadojo.com/ernie-cates-neko-ryu-jujitsu/
+    - uri: https://www.alamy.de/am-2-november-1966-fuhrte-der-judo-champion-des-marine-corps-ernie-cates-von-flsv-2-phu-bai-ein-ausstellungsspiel-in-blue-republik-vietnam-durch-image574151130.html
+  links:
+    - uri: https://legendsofcarolinamartialarts.com/class-of-2020/ernie-cates-nc/
+    - uri: https://www.facebook.com/photo?fbid=1494015022727540&set=pcb.1494015256060850
+      cite: Wikipedia
