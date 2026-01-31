@@ -1,0 +1,50 @@
+# Judo Documentation Project: Judo Lineage Tree Sub-project
+---
+
+person:
+  id: JDP-137
+  name: Kotani Sumiyuki
+  native_name:
+      name: 小谷 澄之
+      lang: ja
+  nationality:
+    - JPN
+  birth:
+    date: "1916-09-14"
+    location: 
+    country_code: JPN
+  death:
+    date: "1977-09-29"
+    location: 
+    country_code: JPN
+  description:
+    en: >-
+      combative measures instructor at the Japanese Naval Academy
+  photo:
+    url: https://en.wikipedia.org/wiki/File:Kotani_Sumiyuki_Judo_Judan.jpg
+    source:
+      uri: https://en.wikipedia.org/wiki/Sumiyuki_Kotani
+      cite: "Photo from collection of Dr. Clif Norgaard"
+  teachers:
+    - id:    # strangely, can't find any info on teachers
+      style_id: JDP-S-1
+      place: Kodokan
+      period:
+        start:
+        end: 
+      quality: 
+      sources:
+        - uri:
+          cite:
+  rank:
+    - style_id: JDP-S-1
+      org: Kodokan
+      teacher:
+      rank: 9 dan
+      date: between 1970 and 1977
+  sources:
+    - uri: https://en.wikipedia.org/wiki/Sadaki_Nakabayashi
+    - uri: https://archive.org/details/judo0000sada
+  links:
+    - uri: https://en.wikipedia.org/wiki/Sumiyuki_Kotani
+      cite: Wikipedia
