@@ -2,10 +2,10 @@
 ---
 
 person:
-  id: JDP-137
-  name: Kotani Sumiyuki
+  id:
+  name: Nakabayashi Sadaki # (surname is first here)
   native_name:
-      name: 小谷 澄之
+      name: 中林 貞基
       lang: ja
   nationality:
     - JPN
@@ -43,8 +43,19 @@ person:
       rank: 9 dan
       date: between 1970 and 1977
   sources:
-    - uri: https://en.wikipedia.org/wiki/Sadaki_Nakabayashi
-    - uri: https://archive.org/details/judo0000sada
+    - uri: 
+    - uri: https://archive.org/details/judo0000sada # authored book "Judo" in 1965.  Also author of other books
   links:
-    - uri: https://en.wikipedia.org/wiki/Sumiyuki_Kotani
+    - uri: https://en.wikipedia.org/wiki/Sadaki_Nakabayashi
       cite: Wikipedia
+
+# combative measures instructor at the Imperial Japanese Naval Academy at Etajima during World War II. 
+# Key Biographical Details
+# Graduate of Kokushikan University (国士舘大学), a prestigious institution for martial arts.
+# Military Role: During WWII, he was a soldier in the Japanese Army, where he refined and taught Taiho Jutsu (arresting techniques) and other combat measures at the Naval Academy.
+# Martial Arts Background: He held high ranks in both Judo and Kendo, having majored in these disciplines at Kokushikan University.
+# Post-War Transition: Despite his military service, his reputation was so highly regarded that he was one of the first instructors invited by the U.S. Air Force to teach Judo in Japan during the Occupation before his permanent move to New York
+# Post-War Influence: Nakabayashi moved to the United States in the 1960s at the invitation of the U.S. Air Force to teach judo. He eventually became the chief instructor at the New York Athletic Club and established the judo program at West Point.
+# https://www.nytimes.com/1963/12/29/archives/japanese-judo-expert-here-to-help-us-olympic-team-hopefuls.htm
+# Legacy: He was a 9th Dan in Judo and played a critical role in developing the 1964 U.S. Olympic Judo Team. He is also credited with helping develop Neko-ryu Goshin Jitsu, a self-defense system designed to be taught in short, intensive courses.
+
